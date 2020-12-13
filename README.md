@@ -1,4 +1,4 @@
-# Easy User Authentication for React Apps TT
+# Easy User Authentication for React Apps
 
 This repository hosts a React project that defines a Single-Page Application (SPA). You'll secure access to some of its routes using Auth0 User Authentication.
 
@@ -82,6 +82,7 @@ Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter a
 
 ## Set up the Demo API
 
+Setting up the API is optional. If you choose to set up the API Demo the steps are described below. 
 You can set up this Express demo server to test making secure API calls from your React application.
 
 ### Get the Express API demo

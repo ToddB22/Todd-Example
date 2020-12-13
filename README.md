@@ -79,7 +79,7 @@ npm start
 The application runs by on port `4040` to mitigate conflicting with other client applications you may be running.
 
 Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter application.
-## Set up the Demo API -  The Following is optional 
+## Set up the Demo API -  The Following is optional and was not setup for this Demo
 
 You can set up this Express demo server to test making secure API calls from your React application.
 
